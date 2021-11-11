@@ -5,7 +5,11 @@
     "description": "hld"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "marco"
+      }
+    ],
     "diagrams": [
       {
         "title": "diagram1",
